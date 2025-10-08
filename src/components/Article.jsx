@@ -8,8 +8,8 @@ const Article = () => {
       data-current="true"
       data-promotional="false"
       islast="false"
-      data-id="68c7ec4d0215019d6ccfd0e0"
-      data-slug="/features/insight/dulquer-salmaan-on-the-unexpected-success-of-lokah-we-thought-we-might-lose-money-on-this-film"
+      data-id="68b6d3441fa0ce8be41cc648"
+      data-slug="/lifestyle/fashion/aisha-rao-proves-that-maximalism-isnt-dead-and-celebrities-cant-get-enough"
       style={{ position: "relative" }}
     >
       <section id="storiesherosec" className="Stories_storiesHeroSec__eOd_9">
@@ -19,27 +19,26 @@ const Article = () => {
               <div className="Stories_breadcumSec__5W47j">
                 <ol className="Stories_breadcrumb__GxI6O">
                   <li className="Stories_breadcrumb-item__0eUTU">
-                    <a href="/features">Features</a>
+                    <a href="/lifestyle">Lifestyle</a>
                   </li>
                   <li className="Stories_breadcrumb-item__0eUTU">
-                    <a href="/features/insight">Insight</a>
+                    <a href="/lifestyle/fashion">Fashion</a>
                   </li>
                 </ol>
               </div>
               <div className="Stories_contentSec__EbmC6">
                 <h1>
-                  Dulquer Salmaan On Pan-Indian Success of 'Lokah': 'We Thought
-                  We Might Lose Money on This Film'
+                  Designer Aisha Rao Proves That Maximalism Isn't Dead — and
+                  Bollywood Celebrities Can't Get Enough
                 </h1>
                 <p>
-                  Actor-producer Dulquer Salmaan says that the team braced for a
-                  loss before 'Lokah: Chapter 1 - Chandra' became a nationwide
-                  hit.{" "}
+                  From Sara Ali Khan to Malaika Arora, Sharvari and Tara
+                  Sutaria, here's why everyone's wearing Aisha Rao couture.
                 </p>
                 <div className="Stories_author_wrapper__X_Bc3">
                   <div>
                     <img
-                      alt="Team THR India"
+                      alt="Ananya Shankar"
                       loading="lazy"
                       width={50}
                       height={50}
@@ -47,7 +46,7 @@ const Article = () => {
                       data-nimg={1}
                       className="Stories_author_image__mA2__"
                       style={{ color: "transparent" }}
-                      srcSet="https://www.hollywoodreporterindia.com/_next/image?url=https%3A%2F%2Fcdn.hollywoodreporterindia.com%2Fbms-new%2Fwriter%2F-2024-09-22T13%253A03%253A07.306Z-100x100%2520THR%2520favicon.png&w=128&q=75"
+                      src="https://www.hollywoodreporterindia.com/_next/image?url=https%3A%2F%2Fcdn.hollywoodreporterindia.com%2Fbms-new%2Fwriter%2F-2024-10-14T11%253A26%253A10.068Z-use%2Bthis.jpg&w=128&q=75"
                     />
                   </div>
                   <div className="Stories_author_right__4NHrP">
@@ -62,7 +61,7 @@ const Article = () => {
                       <span className="Stories_author_name__6fo16">
                         By{/* */}{" "}
                         <span style={{ cursor: "pointer" }}>
-                          Team THR India
+                          Ananya Shankar
                         </span>
                       </span>
                       <span>
@@ -93,7 +92,7 @@ const Article = () => {
                       </span>
                     </div>
                     <span className="Stories_timeline__WwKrc">
-                      LAST UPDATED: {/* */}SEP 15, 2025, 17:17 IST
+                      LAST UPDATED: {/* */}OCT 02, 2025, 12:23 IST
                     </span>
                     <span
                       className="Stories_timeline__WwKrc"
@@ -115,7 +114,7 @@ const Article = () => {
               <ul className="Stories_followus__pCkrF">
                 <a
                   target="_blank"
-                  href="https://wa.me/?text=https://www.hollywoodreporterindia.com/features/insight/dulquer-salmaan-on-the-unexpected-success-of-lokah-we-thought-we-might-lose-money-on-this-film"
+                  href="https://wa.me/?text=https://www.hollywoodreporterindia.com/lifestyle/fashion/aisha-rao-proves-that-maximalism-isnt-dead-and-celebrities-cant-get-enough"
                 >
                   <li className="Stories_items__gSCVK">
                     <span className="Stories_tooltipText__7XsEo">
@@ -137,7 +136,7 @@ const Article = () => {
                 </a>
                 <a
                   target="_blank"
-                  href="https://www.facebook.com/dialog/share?app_id=145634995501895&display=popup&href=https://www.hollywoodreporterindia.com/features/insight/dulquer-salmaan-on-the-unexpected-success-of-lokah-we-thought-we-might-lose-money-on-this-film&redirect_uri=https://www.hollywoodreporterindia.com/features/insight/dulquer-salmaan-on-the-unexpected-success-of-lokah-we-thought-we-might-lose-money-on-this-film"
+                  href="https://www.facebook.com/dialog/share?app_id=145634995501895&display=popup&href=https://www.hollywoodreporterindia.com/lifestyle/fashion/aisha-rao-proves-that-maximalism-isnt-dead-and-celebrities-cant-get-enough&redirect_uri=https://www.hollywoodreporterindia.com/lifestyle/fashion/aisha-rao-proves-that-maximalism-isnt-dead-and-celebrities-cant-get-enough"
                 >
                   <li className="Stories_items__gSCVK">
                     <span className="Stories_tooltipText__7XsEo">
@@ -159,7 +158,7 @@ const Article = () => {
                 </a>
                 <a
                   target="_blank"
-                  href="https://twitter.com/intent/tweet?text=https://www.hollywoodreporterindia.com/features/insight/dulquer-salmaan-on-the-unexpected-success-of-lokah-we-thought-we-might-lose-money-on-this-film"
+                  href="https://twitter.com/intent/tweet?text=https://www.hollywoodreporterindia.com/lifestyle/fashion/aisha-rao-proves-that-maximalism-isnt-dead-and-celebrities-cant-get-enough"
                 >
                   <li className="Stories_items__gSCVK">
                     <span className="Stories_tooltipText__7XsEo">
@@ -201,15 +200,15 @@ const Article = () => {
             <div className="col-md-12">
               <div className="ad-flex-all">
                 <div
-                  id="div-gpt-ad-stories-top-68c7ec4d0215019d6ccfd0e0"
+                  id="div-gpt-ad-stories-top-68b6d3441fa0ce8be41cc648"
                   data-cy="Ad"
                   className="ad-text"
-                  data-google-query-id="CLO5mb-G3Y8DFUmoZgIdI6kE2w"
+                  data-google-query-id="CMqC6JSzlJADFREGgwMd9YY5Tw"
                 >
-                  <div
+                  {/* <div
                     id="google_ads_iframe_/23290324739/THRI-Desktop-Top-970_0__container__"
-                    // style={{ border: "0pt none", width: 970, height: 0 }}
-                  />
+                    style={{ border: "0pt none", width: 970, height: 0 }}
+                  /> */}
                 </div>
               </div>
             </div>
@@ -227,7 +226,7 @@ const Article = () => {
                 <div className="Stories_heroImgCont__wemPS">
                   <div className="pos-rel-full">
                     <img
-                      alt="Dulquer Salmaan talks about surpassing expectations with 'Lokah'"
+                      alt="Designer Aisha Rao."
                       loading="lazy"
                       decoding="async"
                       data-nimg="fill"
@@ -242,7 +241,7 @@ const Article = () => {
                         color: "transparent",
                       }}
                       sizes="100vw"
-                      srcSet="https://www.hollywoodreporterindia.com/_next/image?url=https%3A%2F%2Fcdn.hollywoodreporterindia.com%2Farticle%2F2025-09-15T10%253A54%253A22.589Z-IMG_4145.JPEG&w=1920&q=75"
+                      src="https://www.hollywoodreporterindia.com/_next/image?url=https%3A%2F%2Fcdn.hollywoodreporterindia.com%2Farticle%2F2025-09-02T11%253A06%253A23.244Z-Lead.jpg&w=3840&q=75"
                     />
                   </div>
                 </div>
@@ -255,9 +254,9 @@ const Article = () => {
             <div className="col-md-12 text-start">
               <div className="Stories_mainCaption__CKMoz">
                 <span className="Stories_caption__pLYWo">
-                  Dulquer Salmaan talks about surpassing expectations with
-                  'Lokah'
+                  Designer Aisha Rao.
                 </span>
+                <span className="Stories_courtesy__IorTZ">Team Aisha Rao</span>
               </div>
             </div>
           </div>
@@ -277,52 +276,72 @@ const Article = () => {
                     >
                       <p style={{ textAlign: "left" }} />
                       <p style={{ textAlign: "left" }}>
-                        <span>In an exclusive conversation with </span>
-                        <span style={{ fontStyle: "italic" }}>
-                          The Hollywood Reporter India
-                        </span>
-                        <span>, </span>
-                        <a
-                          target="_blank"
-                          rel="noopener noreferrer"
-                          href="https://www.hollywoodreporterindia.com/tag/dulquer-salmaan"
-                        >
-                          <span>actor-producer Dulquer Salmaan</span>
-                        </a>
                         <span>
-                          {" "}
-                          opened up about the overwhelming success of{" "}
-                        </span>
-                        <a
-                          target="_blank"
-                          rel="noopener noreferrer"
-                          style={{ fontStyle: "italic" }}
-                          href="https://www.hollywoodreporterindia.com/features/insight/lokah-crosses-200-crore-ranks-4th-among-all-time-malayalam-blockbusters"
-                        >
-                          <span style={{ fontStyle: "italic" }}>
-                            Lokah: Chapter 1 — Chandra
-                          </span>
-                        </a>
-                        <span>
-                          , a film that has not only resonated with Malayalam
-                          audiences but has also broken barriers to become a
-                          pan-India cultural phenomenon.
+                          In an age where celebrity weddings, both on camera and
+                          off, have embraced a “less is more” philosophy —
+                          pastel palettes, tone-on-tone embroidery, a restrained
+                          minimalism — Hyderabad-based designer Aisha Rao
+                          remains unapologetically maximalist. Yet, somehow, in
+                          defying the trend, she became a favourite among the
+                          celebrities who set them.
                         </span>
                       </p>
                       <p style={{ textAlign: "left" }} />
                       <p style={{ textAlign: "left" }}>
                         <span>
-                          Reflecting on the project, Dulquer admitted the team
-                          had modest expectations. “This is our seventh
-                          production, and we've always managed to land safe. But
-                          nothing has been like{" "}
+                          Celebrated for her fearless use of colour and
+                          intricate appliqué work, she pivoted from a law degree
+                          to a Parsons-trained couturier. And in 2017, she
+                          launched her eponymous&nbsp;label.
                         </span>
-                        <span style={{ fontStyle: "italic" }}>Lokah</span>
+                      </p>
+                      <div
+                        style={{
+                          display: "flex",
+                          justifyContent: "center",
+                          width: "100%",
+                          margin: "20px 0",
+                        }}
+                      >
+                        <div
+                          className="Stories_image__Y76tU"
+                          style={{ width: "75%" }}
+                        >
+                          <img
+                            alt="Behind-the-scenes at Aisha Rao's atelier."
+                            loading="lazy"
+                            width={700}
+                            height={475}
+                            decoding="async"
+                            data-nimg={1}
+                            style={{
+                              color: "transparent",
+                              width: "100%",
+                              height: "auto",
+                            }}
+                            sizes="100vw"
+                            src="https://www.hollywoodreporterindia.com/_next/image?url=https%3A%2F%2Fcdn.hollywoodreporterindia.com%2Farticle%2F2025-09-02T11%253A06%253A23.221Z-Inline3.jpg&w=3840&q=75"
+                          />
+                          <div className="Stories_mainCaption__CKMoz">
+                            <span className="Stories_caption__pLYWo">
+                              Behind-the-scenes at Aisha Rao's atelier.
+                            </span>
+                            <span className="Stories_courtesy__IorTZ">
+                              Team Aisha Rao
+                            </span>
+                          </div>
+                        </div>
+                      </div>
+                      <p style={{ textAlign: "left" }}>
                         <span>
-                          ,” he said. “Even as an actor, none of my films have
-                          exploded like this. It’s been accepted across
-                          demographics and has now become a part of pop culture.
-                          That’s what's most exciting.”
+                          “Year one, we launched a collection that immediately
+                          got noticed because Shraddha Kapoor wore a lehenga
+                          during the promotions for Stree,” Rao recalls. That
+                          white, blue and orange lehenga — bright, and so
+                          unmistakably Rao — became the label’s calling card.
+                          “That was our bread and butter for three years.”
+                          People resonated with that particular aesthetic and
+                          the brand scaled up, hoping to avoid being typecast.
                         </span>
                       </p>
                       <div
@@ -344,17 +363,17 @@ const Article = () => {
                             <a
                               className="Stories_relatedPostCard__Chg_m"
                               target="_blank"
-                              href="/features/insight/mammootty-is-moothon-dulquer-salmaan-confirms-he-played-the-character-in-lokah"
+                              href="/lifestyle/fashion/celebrity-designer-prabal-gurung-on-using-fashion-to-reclaim-identity-culture-and-queerness"
                             >
                               <div className="Stories_relatedPostImage__mctc0">
                                 <img
-                                  alt="Mammootty Is Moothon; Dulquer Salmaan Confirms He Played The Character In 'Lokah'"
+                                  alt="Designer Prabal Gurung."
                                   loading="lazy"
                                   decoding="async"
                                   data-nimg="fill"
                                   className="imgcover"
                                   sizes="100vw"
-                                  srcSet="https://www.hollywoodreporterindia.com/_next/image?url=https%3A%2F%2Fcdn.hollywoodreporterindia.com%2Farticle%2F2025-09-08T06%253A08%253A55.327Z-Untitled%2520design-174.jpg&w=1920&q=75"
+                                  src="https://www.hollywoodreporterindia.com/_next/image?url=https%3A%2F%2Fcdn.hollywoodreporterindia.com%2Fundefined2025-06-18T10%253A31%253A27.900Z-Lead1.jpg&w=3840&q=75"
                                   style={{
                                     position: "absolute",
                                     height: "100%",
@@ -367,218 +386,128 @@ const Article = () => {
                               </div>
                               <div className="w-100 bg-red-100">
                                 <h3 className="Stories_category__PMzs5 mt-0 mb-1">
-                                  Insight
+                                  Fashion
                                 </h3>
                                 <h3 className="Stories_card-title__yoKzB mb-0">
-                                  Mammootty Is Moothon: Dulquer Salmaan Confirms
-                                  He Played The Role In 'Lokah Chapter One:
-                                  Chandra'
+                                  How Prabal Gurung Is Using Fashion to Reclaim
+                                  Identity, Culture and Queerness
                                 </h3>
                               </div>
                             </a>
                           </div>
                         </div>
                       </div>
-                      <HotspotWidgetM/>
+                      <HotspotWidgetM />
+                      <h2
+                        style={{
+                          textAlign: "left",
+                          fontSize: "34px!important",
+                        }}
+                      >
+                        <span style={{ color: "rgb(0, 0, 0)" }}>
+                          Couture Calling
+                        </span>
+                      </h2>
+                      <p style={{ textAlign: "left" }} />
+                      <p style={{ textAlign: "left" }}>
+                        <span>
+                          Rao’s designs managed to stay a step ahead of what
+                          should have been natural progression for her. A fact
+                          she proved in 2025, when actor Sara Ali Khan turned
+                          showstopper for her India Couture Week (ICW) debut in
+                          a rose-gold metallic lehenga. It was a far cry from
+                          the bright, vibrant tones that people had come to
+                          expect of Rao, and a definite sign that her evolution
+                          had begun.
+                        </span>
+                      </p>
+                      <div
+                        style={{
+                          display: "flex",
+                          justifyContent: "center",
+                          width: "100%",
+                          margin: "20px 0",
+                        }}
+                      >
+                        <div
+                          className="Stories_image__Y76tU"
+                          style={{ width: "50%" }}
+                        >
+                          <img
+                            alt=" Sara Ali Khan turned showstopper for Aisha Rao's India Couture Week (ICW) debut."
+                            loading="lazy"
+                            width={700}
+                            height={475}
+                            decoding="async"
+                            data-nimg={1}
+                            style={{
+                              color: "transparent",
+                              width: "100%",
+                              height: "auto",
+                            }}
+                            sizes="100vw"
+                            src="https://www.hollywoodreporterindia.com/_next/image?url=https%3A%2F%2Fcdn.hollywoodreporterindia.com%2Farticle%2F2025-09-02T11%253A06%253A23.230Z-Inline7.jpg&w=3840&q=75"
+                          />
+                          <div className="Stories_mainCaption__CKMoz">
+                            <span className="Stories_caption__pLYWo">
+                              {" "}
+                              Sara Ali Khan turned showstopper for Aisha Rao's
+                              India Couture Week (ICW) debut.
+                            </span>
+                            <span className="Stories_courtesy__IorTZ">
+                              Team Aisha Rao
+                            </span>
+                          </div>
+                        </div>
+                      </div>
+                      <p style={{ textAlign: "left" }}>
+                        <span>
+                          The day they signed with their brand partner, the
+                          sanitary ware brand Kohler, was when Rao’s ICW
+                          collection was conceptualised. And the clock was
+                          ticking, because the show was only two months away.
+                        </span>
+                      </p>
+                      <p style={{ textAlign: "left" }} />
+
                       <div>
                         <div className="ad-flex-all">
                           <div
-                            id="div-gpt-ad-stories-middle-68c7ec4d0215019d6ccfd0e0-4"
+                            id="div-gpt-ad-stories-middle-68b6d3441fa0ce8be41cc648-15"
                             data-cy="Ad"
                             className="ad-text"
-                            data-google-query-id="CMDvnL-G3Y8DFbOrZgId-TUq6w"
+                            data-google-query-id="CNfO6ZSzlJADFVUBgwMdYlQ3Pw"
                             style={{ marginBottom: 20 }}
                           >
-                            <div
+                            {/* <div
                               id="google_ads_iframe_/23290324739/THRI-Desktop-Middle-300_0__container__"
                               style={{
                                 border: "0pt none",
                                 width: 300,
                                 height: 0,
                               }}
-                            />
+                            /> */}
                           </div>
                         </div>
                       </div>
-                      <p style={{ textAlign: "left" }}>
-                        <span>
-                          Dulquer revealed that the initial projections were far
-                          from optimistic. “Honestly, we were bracing ourselves
-                          for a potential loss. We believed in the film, but
-                          weren’t sure how it would perform commercially,” he
-                          shared. “Buyers weren’t lining up, and we had made
-                          peace with the idea that we might take a hit on the
-                          first film of the franchise.”
-                        </span>
-                      </p>
-                      <p style={{ textAlign: "left" }} />
-                      <p style={{ textAlign: "left" }}>
-                        <span>
-                          But what followed was nothing short of extraordinary.
-                          From day one, Lokah began receiving rave reviews from
-                          all corners of the country. “I was seeing reactions
-                          from across India. It’s a testament to how audiences
-                          today are open to different languages and storytelling
-                          styles. People gave the film a chance on release day
-                          itself—watched it, reviewed it, made reels about it.
-                          It was surreal.”
-                        </span>
-                      </p>
-                      <div
-                        style={{
-                          display: "flex",
-                          justifyContent: "center",
-                          width: "100%",
-                          margin: "20px 0",
-                        }}
-                      >
-                        <div className="Stories_relatedPostWrapper__sQzlS">
-                          <h2 className="Stories_relatedPostHeading__7h_ax">
-                            You may also like
-                          </h2>
-                          <div
-                            className="Stories_row__bZ032"
-                            style={{ width: "100%" }}
-                          >
-                            <a
-                              className="Stories_relatedPostCard__Chg_m"
-                              target="_blank"
-                              href="/features/insight/lokah-michael-and-charlie-to-get-standalone-films-in-the-malayalam-films-universe"
-                            >
-                              <div className="Stories_relatedPostImage__mctc0">
-                                <img
-                                  alt=" Tovino Thomas and Dulquer Salmaan "
-                                  loading="lazy"
-                                  decoding="async"
-                                  data-nimg="fill"
-                                  className="imgcover"
-                                  sizes="100vw"
-                                  srcSet="https://www.hollywoodreporterindia.com/_next/image?url=https%3A%2F%2Fcdn.hollywoodreporterindia.com%2Farticle%2F2025-09-15T09%253A47%253A33.289Z-tovino%2520and%2520dulquer.jpg&w=1920&q=75"
-                                  style={{
-                                    position: "absolute",
-                                    height: "100%",
-                                    width: "100%",
-                                    inset: 0,
-                                    objectFit: "cover",
-                                    color: "transparent",
-                                  }}
-                                />
-                              </div>
-                              <div className="w-100 bg-red-100">
-                                <h3 className="Stories_category__PMzs5 mt-0 mb-1">
-                                  Insight
-                                </h3>
-                                <h3 className="Stories_card-title__yoKzB mb-0">
-                                  'Lokah': Michael and Charlie to Get Standalone
-                                  Films in The Malayalam Film's Universe?
-                                </h3>
-                              </div>
-                            </a>
-                          </div>
-                        </div>
-                      </div>
-                      <p style={{ textAlign: "left" }}>
-                        <span>
-                          The actor-producer admitted that the magnitude of the
-                          film's success took the entire team by surprise. “We
-                          were all in disbelief. It just blew up. And suddenly
-                          the conversation shifted from ‘will it work?’ to ‘what
-                          do we do about the next one?’,” he laughed. “It’s
-                          exciting, but yeah—no pressure!”
-                        </span>
-                      </p>
-                      <div>
-                        <div className="ad-flex-all">
-                          <div
-                            id="div-gpt-ad-stories-middle-68c7ec4d0215019d6ccfd0e0-9"
-                            data-cy="Ad"
-                            className="ad-text"
-                            data-google-query-id="CJOZnr-G3Y8DFTGkZgIddxc2bw"
-                            style={{ marginBottom: 20 }}
-                          >
-                            <div
-                              id="google_ads_iframe_/23290324739/THRI-Desktop-Middle-300_1__container__"
-                              style={{
-                                border: "0pt none",
-                                width: 300,
-                                height: 0,
-                              }}
-                            />
-                          </div>
-                        </div>
-                      </div>
-                      <p style={{ textAlign: "left" }} />
-                      <p style={{ textAlign: "left" }}>
-                        <span>As </span>
-                        <span style={{ fontStyle: "italic" }}>Lokah </span>
-                        <span>
-                          continues to dominate conversations, Dulquer's journey
-                          as a risk-taking producer and actor cements his place
-                          as one of Indian cinema’s most dynamic forces.
-                        </span>
-                      </p>
-                      <p style={{ textAlign: "left" }} />
-                      <p style={{ textAlign: "left" }}>
-                        <span
-                          style={{ fontWeight: "bold", fontStyle: "italic" }}
-                        >
-                          Watch out for our full interview with the actor,
-                          dropping at 8 PM tonight on{" "}
-                        </span>
-                        <a
-                          target="_blank"
-                          rel="nofollow"
-                          style={{ fontWeight: "bold", fontStyle: "italic" }}
-                          href="https://www.youtube.com/@HollywoodReporterIndia"
-                        >
-                          <span
-                            style={{ fontWeight: "bold", fontStyle: "italic" }}
-                          >
-                            The Hollywood Reporter India's YouTube channel
-                          </span>
-                        </a>
-                        <span
-                          style={{ fontWeight: "bold", fontStyle: "italic" }}
-                        >
-                          .
-                        </span>
-                      </p>
                     </div>
                   </div>
                 </div>
-                <div className="col-md-6" style={{ width: "100%" }}>
-                  <div className="Stories_readMore__pwFP1">
-                    <h3>READ MORE ABOUT:</h3>
-                    <div className="Stories_breadcumSec__5W47j">
-                      <ol className="Stories_breadcrumb__GxI6O">
-                        <li className="Stories_breadcrumb-item__0eUTU">
-                          <a href="/tag/dulquer-salmaan">Dulquer Salmaan</a>
-                        </li>
-                        <li className="Stories_breadcrumb-item__0eUTU">
-                          <a href="/tag/lokah-chapter-1-chandra">
-                            Lokah Chapter 1: Chandra
-                          </a>
-                        </li>
-                      </ol>
-                    </div>
-                  </div>
-                </div>
-                <div className="col-md-6" />
               </div>
             </div>
             <div className="col-md-4 ln-cont">
               <div className="ad-flex-all">
                 <div
-                  id="div-gpt-ad-stories-rhs-300x250-68c7ec4d0215019d6ccfd0e0"
+                  id="div-gpt-ad-stories-rhs-300x250-68b6d3441fa0ce8be41cc648"
                   data-cy="Ad"
                   className="ad-text"
-                  data-google-query-id="CKrwn7-G3Y8DFV2kZgIdqYoEGg"
+                  data-google-query-id="CPqn6pSzlJADFWsBgwMdRnQJ3Q"
                   style={{ marginBottom: 20 }}
                 >
-                  <div
+                  {/* <div
                     id="google_ads_iframe_/23290324739/THRI-Desktop-RHS-300_0__container__"
                     style={{ border: "0pt none", width: 300, height: 0 }}
-                  />
+                  /> */}
                 </div>
               </div>
               <div className="row mob-hidden">
@@ -588,7 +517,7 @@ const Article = () => {
                 <div className="col-md-12">
                   <a
                     className="side-card h-par updated"
-                    href="/features/insight/what-to-watch-this-week-the-bads-of-bollywood-jolly-llb-3-a-big-bold-beautiful-journey-and-more"
+                    href="/lifestyle/fashion/from-deepika-padukone-to-angela-bassett-heres-why-jj-valaya-has-been-couturier-to-the-stars-since-1992"
                   >
                     <div className="image h100">
                       <img
@@ -598,7 +527,7 @@ const Article = () => {
                         data-nimg="fill"
                         className="imgcover"
                         sizes="100vw"
-                        srcSet="https://www.hollywoodreporterindia.com/_next/image?url=https%3A%2F%2Fcdn.hollywoodreporterindia.com%2Farticle%2F2025-09-16T09%253A17%253A09.759Z-what%2520to%2520watch%2520%25282%2529.jpg&w=1920&q=75"
+                        src="https://www.hollywoodreporterindia.com/_next/image?url=https%3A%2F%2Fcdn.hollywoodreporterindia.com%2Farticle%2F2025-10-06T07%253A45%253A51.916Z-Lead.jpg&w=3840&q=75"
                         style={{
                           position: "absolute",
                           height: "100%",
@@ -610,18 +539,18 @@ const Article = () => {
                     </div>
                     <div className="content">
                       <div className="d-flex flex-columnn align-items-center gap-2">
-                        <span className="category">Insight</span>
-                        <span className="timeline">SEP 16, 2025</span>
+                        <span className="category">Fashion</span>
+                        <span className="timeline">OCT 6, 2025</span>
                       </div>
                       <h3 className="card-title">
-                        What to Watch This Week: 'The Ba***ds of Bollywood,'
-                        'Jolly LLB 3,' 'A Big Bold Beautiful Journey' and More
+                        From Deepika Padukone to Angela Bassett, Here's Why J.J.
+                        Valaya has Been Couturier to the Stars Since 1992
                       </h3>
                     </div>
                   </a>
                   <a
                     className="side-card h-par updated"
-                    href="/features/insight/we-wrote-omkara-in-eighteen-days-abhishek-chaubey-on-his-journey-with-vishal-bhardwaj"
+                    href="/lifestyle/food/from-ananya-panday-to-suhana-khan-everyones-talking-about-gaijin-where-tokyo-meets-mumbai"
                   >
                     <div className="image h100">
                       <img
@@ -631,7 +560,7 @@ const Article = () => {
                         data-nimg="fill"
                         className="imgcover"
                         sizes="100vw"
-                        srcSet="https://www.hollywoodreporterindia.com/_next/image?url=https%3A%2F%2Fcdn.hollywoodreporterindia.com%2Farticle%2F2025-09-16T09%253A30%253A55.819Z-IMG_4162.JPEG&w=1920&q=75"
+                        src="https://www.hollywoodreporterindia.com/_next/image?url=https%3A%2F%2Fcdn.hollywoodreporterindia.com%2Farticle%2F2025-10-02T06%253A42%253A18.807Z-Untitled%2520design%2520%25284%2529.jpg&w=3840&q=75"
                         style={{
                           position: "absolute",
                           height: "100%",
@@ -643,18 +572,18 @@ const Article = () => {
                     </div>
                     <div className="content">
                       <div className="d-flex flex-columnn align-items-center gap-2">
-                        <span className="category">Insight</span>
-                        <span className="timeline">SEP 16, 2025</span>
+                        <span className="category">Food</span>
+                        <span className="timeline">OCT 2, 2025</span>
                       </div>
                       <h3 className="card-title">
-                        Abhishek Chaubey on His Journey With Vishal Bhardwaj: We
-                        Wrote 'Omkara' In Eighteen Days
+                        Everyone’s Talking About Gaijin, Where Tokyo Meets
+                        Mumbai
                       </h3>
                     </div>
                   </a>
                   <a
                     className="side-card h-par updated"
-                    href="/features/interviews/sharmila-tagore-interview-on-stardom-today-and-wanting-to-play-a-villainous-character-next"
+                    href="/lifestyle/interiors/shah-rukh-khan-to-ranveer-singh-everything-to-know-about-actors-vanity-vans-in-bollywood"
                   >
                     <div className="image h100">
                       <img
@@ -664,7 +593,7 @@ const Article = () => {
                         data-nimg="fill"
                         className="imgcover"
                         sizes="100vw"
-                        srcSet="https://www.hollywoodreporterindia.com/_next/image?url=https%3A%2F%2Fcdn.hollywoodreporterindia.com%2Feditor-images%2F2025-09-16T08%253A13%253A18.276Z-Lead.jpg&w=1920&q=75"
+                        src="https://www.hollywoodreporterindia.com/_next/image?url=https%3A%2F%2Fcdn.hollywoodreporterindia.com%2Farticle%2F2025-09-29T10%253A02%253A34.200Z-New_Lead2.jpg&w=3840&q=75"
                         style={{
                           position: "absolute",
                           height: "100%",
@@ -676,19 +605,18 @@ const Article = () => {
                     </div>
                     <div className="content">
                       <div className="d-flex flex-columnn align-items-center gap-2">
-                        <span className="category">Interviews</span>
-                        <span className="timeline">SEP 16, 2025</span>
+                        <span className="category">Interiors</span>
+                        <span className="timeline">SEP 29, 2025</span>
                       </div>
                       <h3 className="card-title">
-                        Sharmila Tagore on Stardom Today and Wanting to Play a
-                        'Villainous' Character Next: 'Villains, Too, Sometimes
-                        Have Much To Say...'
+                        Shah Rukh Khan to Ranveer Singh: Everything to Know
+                        About Actors' Vanity Vans in Bollywood
                       </h3>
                     </div>
                   </a>
                   <a
                     className="side-card h-par updated"
-                    href="/features/insight/delhi-high-court-to-rule-on-karan-johars-personality-rights-plea-on-september-17"
+                    href="/lifestyle/travel/inside-dhvani-bhanushalis-dreamy-italy-trip-rome-amalfi-milan-and-more"
                   >
                     <div className="image h100">
                       <img
@@ -698,7 +626,7 @@ const Article = () => {
                         data-nimg="fill"
                         className="imgcover"
                         sizes="100vw"
-                        srcSet="https://www.hollywoodreporterindia.com/_next/image?url=https%3A%2F%2Fcdn.hollywoodreporterindia.com%2Fbms-new%2Farticle%2F-2024-09-21T11%253A15%253A29.957Z-Lead1-KJ.jpg&w=1920&q=75"
+                        src="https://www.hollywoodreporterindia.com/_next/image?url=https%3A%2F%2Fcdn.hollywoodreporterindia.com%2Feditor-images%2F2025-09-23T07%253A09%253A30.710Z-Lead.jpg&w=3840&q=75"
                         style={{
                           position: "absolute",
                           height: "100%",
@@ -710,18 +638,18 @@ const Article = () => {
                     </div>
                     <div className="content">
                       <div className="d-flex flex-columnn align-items-center gap-2">
-                        <span className="category">Insight</span>
-                        <span className="timeline">SEP 16, 2025</span>
+                        <span className="category">Travel</span>
+                        <span className="timeline">SEP 29, 2025</span>
                       </div>
                       <h3 className="card-title">
-                        Delhi High Court to Rule on Karan Johar’s Personality
-                        Rights Plea on September 17
+                        Inside Dhvani Bhanushali’s Dreamy Italy Trip: Rome,
+                        Amalfi, Milan and More
                       </h3>
                     </div>
                   </a>
                   <a
                     className="side-card h-par updated"
-                    href="/features/insight/ustaad-bhagat-singh-the-pawan-kalyan-movie-completes-filming-sreeleela"
+                    href="/lifestyle/fashion/alia-bhatt-revisits-90s-gucci-by-tom-ford-at-the-bads-of-bollywood-premiere"
                   >
                     <div className="image h100">
                       <img
@@ -731,7 +659,7 @@ const Article = () => {
                         data-nimg="fill"
                         className="imgcover"
                         sizes="100vw"
-                        srcSet="https://www.hollywoodreporterindia.com/_next/image?url=https%3A%2F%2Fcdn.hollywoodreporterindia.com%2Farticle%2F2025-09-16T06%253A43%253A53.306Z-Untitled%2520design-185.jpg&w=1920&q=75"
+                        src="https://www.hollywoodreporterindia.com/_next/image?url=https%3A%2F%2Fcdn.hollywoodreporterindia.com%2Farticle%2F2025-09-18T09%253A22%253A33.234Z-WhatsApp%2520Image%25202025-09-18%2520at%25202.52.17%2520PM.jpeg&w=3840&q=75"
                         style={{
                           position: "absolute",
                           height: "100%",
@@ -743,18 +671,18 @@ const Article = () => {
                     </div>
                     <div className="content">
                       <div className="d-flex flex-columnn align-items-center gap-2">
-                        <span className="category">Insight</span>
-                        <span className="timeline">SEP 16, 2025</span>
+                        <span className="category">Fashion</span>
+                        <span className="timeline">SEP 18, 2025</span>
                       </div>
                       <h3 className="card-title">
-                        'Ustaad Bhagat Singh': The Pawan Kalyan Movie Wraps Up
-                        Filming
+                        Alia Bhatt Revisits ’90s Gucci by Tom Ford at 'The
+                        Ba***ds of Bollywood' Premiere
                       </h3>
                     </div>
                   </a>
                   <a
                     className="side-card h-par updated"
-                    href="/features/interviews/bobby-deol-on-the-bads-of-bollywood-and-why-aryan-khan-is-a-good-actor-he-looks-like-his-father-but-hes-different"
+                    href="/lifestyle/fashion/cutting-out-the-karigar"
                   >
                     <div className="image h100">
                       <img
@@ -764,7 +692,7 @@ const Article = () => {
                         data-nimg="fill"
                         className="imgcover"
                         sizes="100vw"
-                        srcSet="https://www.hollywoodreporterindia.com/_next/image?url=https%3A%2F%2Fcdn.hollywoodreporterindia.com%2Farticle%2F2025-09-16T03%253A35%253A17.756Z-Untitled%2520design_20250916_090438_0000.png&w=1920&q=75"
+                        src="https://www.hollywoodreporterindia.com/_next/image?url=https%3A%2F%2Fcdn.hollywoodreporterindia.com%2Farticle%2F2025-09-15T08%253A40%253A51.214Z-Lead.jpg&w=3840&q=75"
                         style={{
                           position: "absolute",
                           height: "100%",
@@ -776,119 +704,18 @@ const Article = () => {
                     </div>
                     <div className="content">
                       <div className="d-flex flex-columnn align-items-center gap-2">
-                        <span className="category">Interviews</span>
-                        <span className="timeline">SEP 16, 2025</span>
-                      </div>
-                      <h3 className="card-title">
-                        Bobby Deol on 'The Ba***ds of Bollywood' and Why Aryan
-                        Khan is a Good Actor: 'He Looks Like His Father, But
-                        He's Different'
-                      </h3>
-                    </div>
-                  </a>
-                  <a
-                    className="side-card h-par updated"
-                    href="/features/insight/lokah-director-dominic-arun-on-franchises-future-we-know-how-this-is-going-to-end"
-                  >
-                    <div className="image h100">
-                      <img
-                        alt=""
-                        loading="lazy"
-                        decoding="async"
-                        data-nimg="fill"
-                        className="imgcover"
-                        sizes="100vw"
-                        srcSet="https://www.hollywoodreporterindia.com/_next/image?url=https%3A%2F%2Fcdn.hollywoodreporterindia.com%2Farticle%2F2025-09-16T05%253A53%253A11.244Z-IMG_4155.JPEG&w=1920&q=75"
-                        style={{
-                          position: "absolute",
-                          height: "100%",
-                          width: "100%",
-                          inset: 0,
-                          color: "transparent",
-                        }}
-                      />
-                    </div>
-                    <div className="content">
-                      <div className="d-flex flex-columnn align-items-center gap-2">
-                        <span className="category">Insight</span>
-                        <span className="timeline">SEP 16, 2025</span>
-                      </div>
-                      <h3 className="card-title">
-                        'Lokah' Director Dominic Arun on Franchise's Future: 'We
-                        Know How This Is Going to End'
-                      </h3>
-                    </div>
-                  </a>
-                  <a
-                    className="side-card h-par updated"
-                    href="/features/insight/vimukt-in-search-of-the-sky-wins-netpac-award-at-tiff-2025"
-                  >
-                    <div className="image h100">
-                      <img
-                        alt=""
-                        loading="lazy"
-                        decoding="async"
-                        data-nimg="fill"
-                        className="imgcover"
-                        sizes="100vw"
-                        srcSet="https://www.hollywoodreporterindia.com/_next/image?url=https%3A%2F%2Fcdn.hollywoodreporterindia.com%2Farticle%2F2025-09-12T11%253A32%253A37.678Z-IMG_4087.JPEG&w=1920&q=75"
-                        style={{
-                          position: "absolute",
-                          height: "100%",
-                          width: "100%",
-                          inset: 0,
-                          color: "transparent",
-                        }}
-                      />
-                    </div>
-                    <div className="content">
-                      <div className="d-flex flex-columnn align-items-center gap-2">
-                        <span className="category">Insight</span>
-                        <span className="timeline">SEP 16, 2025</span>
-                      </div>
-                      <h3 className="card-title">
-                        Vimukt (In Search of the Sky) Wins NETPAC Award at TIFF
-                        2025{" "}
-                      </h3>
-                    </div>
-                  </a>
-                  <a
-                    className="side-card h-par updated"
-                    href="/features/insight/lokah-star-kalyani-priyadarshan-shares-her-father-priyardarshans-reaction-dont-let-success-get-to-your-head"
-                  >
-                    <div className="image h100">
-                      <img
-                        alt=""
-                        loading="lazy"
-                        decoding="async"
-                        data-nimg="fill"
-                        className="imgcover"
-                        sizes="100vw"
-                        srcSet="https://www.hollywoodreporterindia.com/_next/image?url=https%3A%2F%2Fcdn.hollywoodreporterindia.com%2Farticle%2F2025-09-15T12%253A06%253A12.104Z-IMG_4149.JPEG&w=1920&q=75"
-                        style={{
-                          position: "absolute",
-                          height: "100%",
-                          width: "100%",
-                          inset: 0,
-                          color: "transparent",
-                        }}
-                      />
-                    </div>
-                    <div className="content">
-                      <div className="d-flex flex-columnn align-items-center gap-2">
-                        <span className="category">Insight</span>
+                        <span className="category">Fashion</span>
                         <span className="timeline">SEP 15, 2025</span>
                       </div>
                       <h3 className="card-title">
-                        'Lokah' Star Kalyani Priyadarshan on Her Father’s
-                        Reaction To Film: 'He messaged Me — Don’t Let Success
-                        Get To Your Head'
+                        India’s Artisans Are Powering Global Fashion — But
+                        Getting None of the Credit
                       </h3>
                     </div>
                   </a>
                   <a
                     className="side-card h-par updated"
-                    href="/features/insight/lokah-michael-and-charlie-to-get-standalone-films-in-the-malayalam-films-universe"
+                    href="/lifestyle/fashion/what-smriti-kiran-kush-jotwani-vikkas-manaktala-and-shivesh-bhatia-wear-to-work"
                   >
                     <div className="image h100">
                       <img
@@ -898,7 +725,7 @@ const Article = () => {
                         data-nimg="fill"
                         className="imgcover"
                         sizes="100vw"
-                        srcSet="https://www.hollywoodreporterindia.com/_next/image?url=https%3A%2F%2Fcdn.hollywoodreporterindia.com%2Farticle%2F2025-09-15T09%253A47%253A33.289Z-tovino%2520and%2520dulquer.jpg&w=1920&q=75"
+                        src="https://www.hollywoodreporterindia.com/_next/image?url=https%3A%2F%2Fcdn.hollywoodreporterindia.com%2Farticle%2F2025-09-11T08%253A20%253A27.760Z-Lead.jpg&w=3840&q=75"
                         style={{
                           position: "absolute",
                           height: "100%",
@@ -910,12 +737,117 @@ const Article = () => {
                     </div>
                     <div className="content">
                       <div className="d-flex flex-columnn align-items-center gap-2">
-                        <span className="category">Insight</span>
-                        <span className="timeline">SEP 15, 2025</span>
+                        <span className="category">Fashion</span>
+                        <span className="timeline">SEP 13, 2025</span>
                       </div>
                       <h3 className="card-title">
-                        'Lokah': Michael and Charlie to Get Standalone Films in
-                        The Malayalam Film's Universe?
+                        On-Set Wardrobes: What Smriti Kiran, Kush Jotwani,
+                        Vikkas Manaktala and Shivesh Bhatia Wear to Work
+                      </h3>
+                    </div>
+                  </a>
+                  <a
+                    className="side-card h-par updated"
+                    href="/lifestyle/fashion/nitanshi-goel-in-the-swinging-sixties-laapataa-ladies-actor-talks-all-things-fashion"
+                  >
+                    <div className="image h100">
+                      <img
+                        alt=""
+                        loading="lazy"
+                        decoding="async"
+                        data-nimg="fill"
+                        className="imgcover"
+                        sizes="100vw"
+                        src="https://www.hollywoodreporterindia.com/_next/image?url=https%3A%2F%2Fcdn.hollywoodreporterindia.com%2Feditor-images%2F2025-09-10T07%253A56%253A07.379Z-Lead1.jpg&w=3840&q=75"
+                        style={{
+                          position: "absolute",
+                          height: "100%",
+                          width: "100%",
+                          inset: 0,
+                          color: "transparent",
+                        }}
+                      />
+                    </div>
+                    <div className="content">
+                      <div className="d-flex flex-columnn align-items-center gap-2">
+                        <span className="category">Fashion</span>
+                        <span className="timeline">SEP 10, 2025</span>
+                      </div>
+                      <h3 className="card-title">
+                        Nitanshi Goel in the Swinging Sixties: 'Laapataa Ladies'
+                        Actor Talks All Things Fashion
+                      </h3>
+                    </div>
+                  </a>
+                  <a
+                    className="side-card h-par updated"
+                    href="/lifestyle/fashion/inside-rahul-mishras-fall-2025-couture-show-that-had-everyone-talking-in-paris"
+                  >
+                    <div className="image h100">
+                      <img
+                        alt=""
+                        loading="lazy"
+                        decoding="async"
+                        data-nimg="fill"
+                        className="imgcover"
+                        sizes="100vw"
+                        src="https://www.hollywoodreporterindia.com/_next/image?url=https%3A%2F%2Fcdn.hollywoodreporterindia.com%2Feditor-images%2F2025-09-08T07%253A52%253A32.633Z-Lead1.jpg&w=3840&q=75"
+                        style={{
+                          position: "absolute",
+                          height: "100%",
+                          width: "100%",
+                          inset: 0,
+                          color: "transparent",
+                        }}
+                      />
+                    </div>
+                    <div className="content">
+                      <div className="d-flex flex-columnn align-items-center gap-2">
+                        <span className="category">Fashion</span>
+                        <span className="timeline">SEP 8, 2025</span>
+                      </div>
+                      <h3 className="card-title">
+                        Inside Rahul Mishra’s Fall 2025 Couture Show That Had
+                        Everyone Talking in Paris
+                      </h3>
+                    </div>
+                  </a>
+                  <a
+                    className="side-card h-par updated"
+                    href="/lifestyle/travel/the-bicester-collection-europes-most-stylish-villages-where-shopping-meets-culture"
+                  >
+                    <div className="image h100">
+                      <img
+                        alt=""
+                        loading="lazy"
+                        decoding="async"
+                        data-nimg="fill"
+                        className="imgcover"
+                        sizes="100vw"
+                        src="https://www.hollywoodreporterindia.com/_next/image?url=https%3A%2F%2Fcdn.hollywoodreporterindia.com%2Farticle%2F2025-08-28T09%253A14%253A48.013Z-Bicester%2520Village.jpg&w=3840&q=75"
+                        style={{
+                          position: "absolute",
+                          height: "100%",
+                          width: "100%",
+                          inset: 0,
+                          color: "transparent",
+                        }}
+                      />
+                    </div>
+                    <div className="content">
+                      <div
+                        className="sponsored-tag"
+                        style={{ lineHeight: 1, fontWeight: 700 }}
+                      >
+                        Sponsored
+                      </div>
+                      <div className="d-flex flex-columnn align-items-center gap-2">
+                        <span className="category">Travel</span>
+                        <span className="timeline">AUG 28, 2025</span>
+                      </div>
+                      <h3 className="card-title">
+                        The Bicester Collection: Europe’s Most Stylish Villages,
+                        Where Shopping Meets Culture
                       </h3>
                     </div>
                   </a>
@@ -923,16 +855,16 @@ const Article = () => {
               </div>
               <div className="ad-flex-all">
                 <div
-                  id="div-gpt-ad-stories-rhs-300x600-68c7ec4d0215019d6ccfd0e0"
+                  id="div-gpt-ad-stories-rhs-300x600-68b6d3441fa0ce8be41cc648"
                   data-cy="Ad"
                   className="ad-text"
-                  data-google-query-id="CJi3ob-G3Y8DFUijZgIdExUS7Q"
+                  data-google-query-id="CPDm65SzlJADFXQAgwMdDbYuSw"
                   style={{ marginBottom: 20 }}
                 >
-                  <div
+                  {/* <div
                     id="google_ads_iframe_/23290324739/THRI-Desktop-RHS-300_1__container__"
                     style={{ border: "0pt none", width: 300, height: 0 }}
-                  />
+                  /> */}
                 </div>
               </div>
             </div>
@@ -941,15 +873,15 @@ const Article = () => {
       </section>
       <div className="ad-flex-all">
         <div
-          id="div-gpt-ad-stories-bottom-68c7ec4d0215019d6ccfd0e0"
+          id="div-gpt-ad-stories-bottom-68b6d3441fa0ce8be41cc648"
           data-cy="Ad"
           className="ad-text"
-          data-google-query-id="CProo7-G3Y8DFYSpZgIdOB4Tfg"
+          data-google-query-id="CNCl65SzlJADFW8GgwMdqLssOA"
         >
-          <div
+          {/* <div
             id="google_ads_iframe_/23290324739/THRI-Desktop-Bottom-300_0__container__"
             style={{ border: "0pt none", width: 300, height: 0 }}
-          />
+          /> */}
         </div>
       </div>
       <div className="Stories_nextStoryContainer__Dr6xj container">
@@ -957,8 +889,8 @@ const Article = () => {
         <div className="Stories_nextStoryLine__l7CRg" />
       </div>
       <div
-        data-id="68c7ec4d0215019d6ccfd0e0"
-        data-slug="/features/insight/dulquer-salmaan-on-the-unexpected-success-of-lokah-we-thought-we-might-lose-money-on-this-film"
+        data-id="68b6d3441fa0ce8be41cc648"
+        data-slug="/lifestyle/fashion/aisha-rao-proves-that-maximalism-isnt-dead-and-celebrities-cant-get-enough"
         data-position="top"
         data-marker="true"
         islast="false"
@@ -969,12 +901,12 @@ const Article = () => {
           height: 10,
           top: "10%",
           pointerEvents: "none",
-          zIndex: -1,
+          zIndex: -9,
         }}
       />
       <div
-        data-id="68c7ec4d0215019d6ccfd0e0"
-        data-slug="/features/insight/dulquer-salmaan-on-the-unexpected-success-of-lokah-we-thought-we-might-lose-money-on-this-film"
+        data-id="68b6d3441fa0ce8be41cc648"
+        data-slug="/lifestyle/fashion/aisha-rao-proves-that-maximalism-isnt-dead-and-celebrities-cant-get-enough"
         data-position="upperMiddle"
         data-marker="true"
         islast="false"
@@ -985,12 +917,12 @@ const Article = () => {
           height: 10,
           top: "30%",
           pointerEvents: "none",
-          zIndex: -1,
+          zIndex: -9,
         }}
       />
       <div
-        data-id="68c7ec4d0215019d6ccfd0e0"
-        data-slug="/features/insight/dulquer-salmaan-on-the-unexpected-success-of-lokah-we-thought-we-might-lose-money-on-this-film"
+        data-id="68b6d3441fa0ce8be41cc648"
+        data-slug="/lifestyle/fashion/aisha-rao-proves-that-maximalism-isnt-dead-and-celebrities-cant-get-enough"
         data-position="middle"
         data-marker="true"
         islast="false"
@@ -1001,12 +933,12 @@ const Article = () => {
           height: 10,
           top: "50%",
           pointerEvents: "none",
-          zIndex: -1,
+          zIndex: -9,
         }}
       />
       <div
-        data-id="68c7ec4d0215019d6ccfd0e0"
-        data-slug="/features/insight/dulquer-salmaan-on-the-unexpected-success-of-lokah-we-thought-we-might-lose-money-on-this-film"
+        data-id="68b6d3441fa0ce8be41cc648"
+        data-slug="/lifestyle/fashion/aisha-rao-proves-that-maximalism-isnt-dead-and-celebrities-cant-get-enough"
         data-position="lowerMiddle"
         data-marker="true"
         islast="false"
@@ -1017,12 +949,12 @@ const Article = () => {
           height: 10,
           top: "70%",
           pointerEvents: "none",
-          zIndex: -1,
+          zIndex: -9,
         }}
       />
       <div
-        data-id="68c7ec4d0215019d6ccfd0e0"
-        data-slug="/features/insight/dulquer-salmaan-on-the-unexpected-success-of-lokah-we-thought-we-might-lose-money-on-this-film"
+        data-id="68b6d3441fa0ce8be41cc648"
+        data-slug="/lifestyle/fashion/aisha-rao-proves-that-maximalism-isnt-dead-and-celebrities-cant-get-enough"
         data-position="bottom"
         data-marker="true"
         islast="false"
@@ -1033,7 +965,7 @@ const Article = () => {
           height: 10,
           top: "90%",
           pointerEvents: "none",
-          zIndex: -1,
+          zIndex: -9,
         }}
       />
     </div>

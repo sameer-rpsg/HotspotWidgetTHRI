@@ -305,7 +305,7 @@ const Article = () => {
                       >
                         <div
                           className="Stories_image__Y76tU"
-                          style={{ width: "75%" }}
+                          style={{ width: "100%" }}
                         >
                           <img
                             alt="Behind-the-scenes at Aisha Rao's atelier."

@@ -241,7 +241,7 @@ const Article = () => {
                         color: "transparent",
                       }}
                       sizes="100vw"
-                      src="https://www.hollywoodreporterindia.com/_next/image?url=https%3A%2F%2Fcdn.hollywoodreporterindia.com%2Farticle%2F2025-09-02T11%253A06%253A23.244Z-Lead.jpg&w=3840&q=75"
+                      src="https://www.hollywoodreporterindia.com/_next/image?url=https%3A%2F%2Fcdn.hollywoodreporterindia.com%2Farticle%2F2025-09-02T11%253A06%253A23.223Z-Inline4.jpg&w=1920&q=75"
                     />
                   </div>
                 </div>
@@ -431,7 +431,7 @@ const Article = () => {
                       >
                         <div
                           className="Stories_image__Y76tU"
-                          style={{ width: "50%" }}
+                          // style={{ width: "50%" }}
                         >
                           <img
                             alt=" Sara Ali Khan turned showstopper for Aisha Rao's India Couture Week (ICW) debut."
@@ -871,103 +871,6 @@ const Article = () => {
           </div>
         </div>
       </section>
-      <div className="ad-flex-all">
-        <div
-          id="div-gpt-ad-stories-bottom-68b6d3441fa0ce8be41cc648"
-          data-cy="Ad"
-          className="ad-text"
-          data-google-query-id="CNCl65SzlJADFW8GgwMdqLssOA"
-        >
-          {/* <div
-            id="google_ads_iframe_/23290324739/THRI-Desktop-Bottom-300_0__container__"
-            style={{ border: "0pt none", width: 300, height: 0 }}
-          /> */}
-        </div>
-      </div>
-      <div className="Stories_nextStoryContainer__Dr6xj container">
-        <h2 className="Stories_nextStoryTitle__G3Ma4">Next Story</h2>
-        <div className="Stories_nextStoryLine__l7CRg" />
-      </div>
-      <div
-        data-id="68b6d3441fa0ce8be41cc648"
-        data-slug="/lifestyle/fashion/aisha-rao-proves-that-maximalism-isnt-dead-and-celebrities-cant-get-enough"
-        data-position="top"
-        data-marker="true"
-        islast="false"
-        style={{
-          position: "absolute",
-          left: 0,
-          width: "100%",
-          height: 10,
-          top: "10%",
-          pointerEvents: "none",
-          zIndex: -9,
-        }}
-      />
-      <div
-        data-id="68b6d3441fa0ce8be41cc648"
-        data-slug="/lifestyle/fashion/aisha-rao-proves-that-maximalism-isnt-dead-and-celebrities-cant-get-enough"
-        data-position="upperMiddle"
-        data-marker="true"
-        islast="false"
-        style={{
-          position: "absolute",
-          left: 0,
-          width: "100%",
-          height: 10,
-          top: "30%",
-          pointerEvents: "none",
-          zIndex: -9,
-        }}
-      />
-      <div
-        data-id="68b6d3441fa0ce8be41cc648"
-        data-slug="/lifestyle/fashion/aisha-rao-proves-that-maximalism-isnt-dead-and-celebrities-cant-get-enough"
-        data-position="middle"
-        data-marker="true"
-        islast="false"
-        style={{
-          position: "absolute",
-          left: 0,
-          width: "100%",
-          height: 10,
-          top: "50%",
-          pointerEvents: "none",
-          zIndex: -9,
-        }}
-      />
-      <div
-        data-id="68b6d3441fa0ce8be41cc648"
-        data-slug="/lifestyle/fashion/aisha-rao-proves-that-maximalism-isnt-dead-and-celebrities-cant-get-enough"
-        data-position="lowerMiddle"
-        data-marker="true"
-        islast="false"
-        style={{
-          position: "absolute",
-          left: 0,
-          width: "100%",
-          height: 10,
-          top: "70%",
-          pointerEvents: "none",
-          zIndex: -9,
-        }}
-      />
-      <div
-        data-id="68b6d3441fa0ce8be41cc648"
-        data-slug="/lifestyle/fashion/aisha-rao-proves-that-maximalism-isnt-dead-and-celebrities-cant-get-enough"
-        data-position="bottom"
-        data-marker="true"
-        islast="false"
-        style={{
-          position: "absolute",
-          left: 0,
-          width: "100%",
-          height: 10,
-          top: "90%",
-          pointerEvents: "none",
-          zIndex: -9,
-        }}
-      />
     </div>
   );
 };

@@ -7787,7 +7787,9 @@ a {
   -webkit-box-orient: vertical;
   overflow: hidden;
 }
-
+.Stories_storiesHeroBanner__wvXJR .Stories_heroSection__FbBlB img {
+    object-fit: cover;
+}
 @media screen and (max-width: 900px) {
   .newsfeed .newsfeed--card .image--cntr {
     width: 150px;
